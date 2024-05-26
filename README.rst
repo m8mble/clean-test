@@ -2,7 +2,6 @@
    SPDX-License-Identifier: BSL-1.0
 
 .. |Clean Test Logo| raw:: html
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="doc/logo/logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="doc/logo/logo-light.svg">
